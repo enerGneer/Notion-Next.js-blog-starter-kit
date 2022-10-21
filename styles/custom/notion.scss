@@ -388,31 +388,31 @@ body {
     border-radius: 8px;
 
     .notion-page-icon-inline {
-      margin-right: 1rem;
+/*      margin-right: 1rem;
       transform: translateY(1px);
       display: flex;
-      align-items: center;
-      justify-content: center;
-    }
+*/      align-items: center;
+/*      justify-content: center;
+*/    }
 
     .notion-inline-code::before {
-      background-color: var(--fg-color-1);
-    }
+/*      background-color: var(--fg-color-1);
+*/    }
 
     &.warning {
-      background-color: var(--notion-yellow_background);
+/*      background-color: var(--notion-yellow_background);
       border-color: var(--notion-yellow);
-    }
+*/    }
 
     &.error {
-      background-color: var(--notion-red_background);
+/*      background-color: var(--notion-red_background);
       border-color: var(--notion-red);
-    }
+*/    }
 
     &.info {
-      background-color: var(--notion-teal_background);
+/*      background-color: var(--notion-teal_background);
       border-color: var(--notion-teal);
-    }
+*/    }
   }
 
   // 인용
