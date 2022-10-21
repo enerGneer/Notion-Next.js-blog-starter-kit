@@ -316,7 +316,7 @@ body {
     &-h1 {
       font-size: 1.7rem;
 
-      &::after {
+/*      &::after {
         content: '';
         display: block;
         height: 2px;
@@ -324,7 +324,7 @@ body {
         background-color: var(--fg-color);
         margin-top: 0.5rem;
         border-radius: 5px;
-      }
+*/      }
     }
 
     &-h2 {
