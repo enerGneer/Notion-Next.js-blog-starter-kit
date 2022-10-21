@@ -201,7 +201,7 @@
 .notion-link {
   position: relative;
   transition: unset;
-  opacity: 0.9;
+  opacity: 0.85;
 /*  border-bottom-width: 0.1rem;
   background: transparent;
   background-origin: border-box;
