@@ -203,6 +203,7 @@
   transition: unset;
   opacity: 1;
   border-bottom-width: 0.1rem;
+  border-bottom-color: var(--fg-color);
   background: transparent;
   background-origin: border-box;
   background-repeat: no-repeat;
