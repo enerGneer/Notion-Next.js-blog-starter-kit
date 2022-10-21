@@ -319,8 +319,8 @@ body {
       &::after {
         content: '';
         display: block;
-        height: 2px;
-        width: 4rem;
+        height: 5px;
+        width: 100%;
         background-color: var(--primary-color);
         margin-top: 0.5rem;
         border-radius: 5px;
