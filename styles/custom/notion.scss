@@ -381,7 +381,7 @@ body {
   // 구분선
   .notion-hr {
     margin: 6px 0;
-    background-color: --fg-color-5 !important;
+    background-color: var(--fg-color-5) !important;
   }
 
   // 콜아웃
