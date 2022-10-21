@@ -129,6 +129,7 @@
 
 .notion *::selection {
   background: var(--select-color-1);
+  opacity: 0.8;
 }
 
 .notion *,
