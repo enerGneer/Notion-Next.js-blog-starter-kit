@@ -70,7 +70,7 @@ export default siteConfig({
   contentPositionTextAlign: 'left',
 
   // default theme color
-  defaultTheme: 'dark',
+  defaultTheme: 'light',
 
   // enable comment
   enableComment: false,
