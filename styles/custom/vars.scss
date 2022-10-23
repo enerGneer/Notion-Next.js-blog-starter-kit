@@ -5,7 +5,7 @@
   --base-font-size: 1.125rem;
 
   --primary-color: rgb(133, 189, 172);
-  --primary-gradient-end-color: #8b6eeb;
+  --primary-gradient-end-color: rgb(139,110,235);
 
   --line-color: rgba(55, 53, 47, 0.1);
 
@@ -14,20 +14,20 @@
   --fg-color-1: rgba(55, 53, 47, 0.16);
   --fg-color-2: rgba(55, 53, 47, 0.4);
   --fg-color-3: rgba(55, 53, 47, 0.6);
-  --fg-color-4: #000;
+  --fg-color-4: rgb(0, 0, 0); //#000
   --fg-color-5: rgba(55, 53, 47, 0.024);
   --fg-color-6: rgba(55, 53, 47, 0.8);
   --fg-color-icon: var(--fg-color);
-  --fg-color-lighten: #eff3f7;
+  --fg-color-lighten: rgb(239,243,247); //eff3f7
 
-  --bg-color: #ffffff;
+  --bg-color: rgb(255, 255, 255); //#ffffff
   --bg-color-0: rgba(135, 131, 120, 0.15);
   --bg-color-1: rgb(247, 246, 243);
   --bg-color-2: rgba(135, 131, 120, 0.15);
 
   --select-color-0: var(--primary-color);
   --select-color-1: var(--primary-color);
-  --select-color-2: #d9eff8;
+  --select-color-2: rgb(217,239,248); //d9eff8
 
   --notion-red: rgb(224, 62, 62);
   --notion-pink: rgb(173, 26, 114);
@@ -70,7 +70,7 @@
   --notion-item-purple: rgba(103, 36, 222, 0.2);
   --notion-item-gray: rgba(155, 154, 151, 0.4);
 
-  --notion-card-background-color: #ffffff;
+  --notion-card-background-color: rgb(255, 255, 255); //#ffffff
 
   --notion-max-width: 1400px;
   --notion-header-height: 54px;
@@ -90,11 +90,11 @@
   --fg-color-3: var(--fg-color);
   --fg-color-4: var(--fg-color);
   --fg-color-5: rgba(255, 255, 255, 0.7);
-  --fg-color-6: #fff;
-  --fg-color-icon: #fff;
-  --fg-color-lighten: #333339;
+  --fg-color-6: rgb(255, 255, 255); //fff
+  --fg-color-icon: rgb(255, 255, 255); //fff
+  --fg-color-lighten: rgb(51,51,57); //333339
 
-  --bg-color: #1a1b1e;
+  --bg-color: #rgb(26,27,30); //#1a1b1e
   --bg-color-0: rgb(71, 76, 80);
   --bg-color-1: rgb(63, 68, 71);
   --bg-color-2: rgba(135, 131, 120, 0.15);
@@ -129,5 +129,5 @@
   --notion-brown_background_co: rgba(67, 64, 64, 0.3);
   --notion-gray_background_co: rgba(69, 75, 78, 0.3);
 
-  --notion-card-background-color: #2b2c31;
+  --notion-card-background-color: rgb(43,44,49); //2b2c31
 }
