@@ -60,7 +60,7 @@ body {
   // 다크 모드가 아닐 때
   &:not(.dark-mode) {
     .indexPage {
-      --bg-color: #f2f3f7;
+      --bg-color: rgb(242,243,247); //f2f3f7
     }
   }
 }

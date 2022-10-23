@@ -20,7 +20,7 @@
   --fg-color-icon: var(--fg-color);
   --fg-color-lighten: rgb(239,243,247); //eff3f7
 
-  --bg-color: rgb(255, 255, 255); //ffffff
+  --bg-color: rgb(255, 255, 255); //ffffff. --bg-color는 custom의 notion.scss에 정의되어 있음 (왜 이걸 안 바꾼 걸까??)
   --bg-color-0: rgba(135, 131, 120, 0.15);
   --bg-color-1: rgb(247, 246, 243);
   --bg-color-2: rgba(135, 131, 120, 0.15);
